@@ -1,2 +1,2 @@
 # UKB_Exposome
-Code and analysis workflows for "The Exposome Architecture of Human Disease and Mortality".
+Code and analysis workflows for "The Health Landscape of the External Exposome and Biological Markers".
